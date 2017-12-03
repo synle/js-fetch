@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/synle/js-fetch/issues"
   },
-  "homepage": "https://github.com/synle/js-fetch#readme"
+  "homepage": "https://github.com/synle/js-fetch#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
 }
